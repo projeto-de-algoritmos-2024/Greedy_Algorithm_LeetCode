@@ -20,18 +20,19 @@ complexidade com ênfase nos conteúdos vistos no módulo de algoritmos ambicios
 
 ## Screenshots
 
-#### Exercício 01 - 
+#### Exercício 01 - Create Maximum Number
 
-Dificuldade:  <br>
-Descrição do Problema: []()<br>
+Dificuldade: Difícil <br>
+Descrição do Problema: [321. Create Maximum Number
+](https://leetcode.com/problems/create-maximum-number/description/)<br>
 Solução Proposta: []()
 
 ![]()
 
-#### Exercício 02 - Min Cost to Connect All Points
+#### Exercício 02 - Task Scheduler
 
-Dificuldade:  <br>
-Descrição do Problema: []()<br>
+Dificuldade: Média <br>
+Descrição do Problema: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)<br>
 Solução Proposta: []() 
 
 ![]()
