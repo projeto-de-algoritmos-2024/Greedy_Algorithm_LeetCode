@@ -25,9 +25,9 @@ complexidade com ênfase nos conteúdos vistos no módulo de algoritmos ambicios
 Dificuldade: Difícil <br>
 Descrição do Problema: [321. Create Maximum Number
 ](https://leetcode.com/problems/create-maximum-number/description/)<br>
-Solução Proposta: [Código de Solução]()
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Greedy_Algorithm_LeetCode/blob/master/Create_Maximum_Number/maximum_number.cpp)
 
-![]()
+![](assets/maximum_number.png)
 
 #### Exercício 02 - Task Scheduler
 
