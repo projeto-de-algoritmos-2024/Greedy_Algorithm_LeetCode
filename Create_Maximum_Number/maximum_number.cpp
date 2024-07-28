@@ -25,6 +25,18 @@ class Solution {
     return {res.begin(), res.begin() + k};
   }
 
-  // falta uma função para fazer o merge dos vetores.
-  
+
+  // merge dos vetores.
+
+    vector<int> merge(const vector<int>& nums1, const vector<int>& nums2) {
+    vector<int> res;
+    auto s1 = nums1.cbegin();
+    auto s2 = nums2.cbegin();
+    while (s1 != nums1.cend() || s2 != nums2.cend())
+      if (lexicographical_compare(s1, nums1.cend(), s2, nums2.cend()))
+        res.push_back(*s2++);
+      else
+        res.push_back(*s1++);
+    return res;
+  }
 };
