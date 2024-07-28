@@ -25,7 +25,7 @@ complexidade com ênfase nos conteúdos vistos no módulo de algoritmos ambicios
 Dificuldade: Difícil <br>
 Descrição do Problema: [321. Create Maximum Number
 ](https://leetcode.com/problems/create-maximum-number/description/)<br>
-Solução Proposta: []()
+Solução Proposta: [Código de Solução]()
 
 ![]()
 
@@ -33,7 +33,7 @@ Solução Proposta: []()
 
 Dificuldade: Média <br>
 Descrição do Problema: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)<br>
-Solução Proposta: []() 
+Solução Proposta: [Código de Solução]() 
 
 ![]()
 
