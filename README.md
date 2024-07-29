@@ -33,9 +33,9 @@ Solução Proposta: [Código de Solução](https://github.com/projeto-de-algorit
 
 Dificuldade: Média <br>
 Descrição do Problema: [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/)<br>
-Solução Proposta: [Código de Solução]() 
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Greedy_Algorithm_LeetCode/blob/master/Task_Scheduler/task_scheduler.cpp) 
 
-![]()
+![](assets/task_scheduler.png)
 
 #### Exercício 03 - X
 
