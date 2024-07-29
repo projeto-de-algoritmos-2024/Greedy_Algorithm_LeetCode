@@ -40,18 +40,18 @@ Solução Proposta: [Código de Solução]()
 #### Exercício 03 - X
 
 Dificuldade: Difícil <br>
-Descrição do Problema: []()<br>
-Solução Proposta: []() 
+Descrição do Problema: [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)<br>
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Greedy_Algorithm_LeetCode/blob/master/course_schedule_III/course_schedule_III.py) 
 
-![]()
+![Accepted](/assets/course.png)
 
 #### Exercício 04 - X
 
-Dificuldade: Difícil <br>
-Descrição do Problema: []()<br>
-Solução Proposta: [Código de Solução]() 
+Dificuldade: Médio <br>
+Descrição do Problema: [1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/description/)<br>
+Solução Proposta: [Código de Solução](https://github.com/projeto-de-algoritmos-2024/Greedy_Algorithm_LeetCode/blob/master/two_city_scheduling/two_city_scheduling.py) 
 
-![]()
+![Aceppted](/assets/two_scheduling.png)
 
 ## Instalação
 
