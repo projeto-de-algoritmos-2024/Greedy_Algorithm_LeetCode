@@ -63,17 +63,17 @@ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 Instruções para compilar e executar o código C++:
 
-1. Certifique-se de ter um compilador para C, C++ instalado em sua máquina. Recomendamos o gcc.
+1. Certifique-se de ter um compilador para C e C++ instalado em sua máquina. Recomendamos o gcc.
 
 2. Faça o clone do repositório Git para o seu ambiente local.
 
 3. No terminal, navegue até o diretório onde está localizado o arquivo de código-fonte (.cpp ou .c) que deseja compilar.
 
 4. - Compile o arquivo de código-fonte utilizando o seguinte comando:
-```g++ -o <nome-do-executavel> <nome-do-arquivo.cpp>```
+```g++ <nome-do-arquivo.cpp> -o <nome-do-executavel> ```
 Substitua <nome-do-executavel> pelo nome desejado para o executável e <nome-do-arquivo.cpp> pelo nome do arquivo de código-fonte.
     - Para a execução em C: Compile o arquivo de código-fonte utilizando o seguinte comando:
-```gcc <nome-do-arquivo.cpp> -o <nome-do-executavel> ```
+```gcc <nome-do-arquivo.c> -o <nome-do-executavel> ```
 Substitua <nome-do-executavel> pelo nome desejado para o executável e <nome-do-arquivo.cpp> pelo nome do arquivo de código-fonte.
 
 5. Após a compilação bem-sucedida, execute o programa com o seguinte comando:
